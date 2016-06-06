@@ -28,3 +28,5 @@ The baselines as well as the state-of-the-art approaches to which our FCA-based 
 
 [https://github.com/zenogantner/MyMediaLite](https://github.com/zenogantner/MyMediaLite)
 
+The specific code is expected to be available at [code/fca](https://github.com/AngelCastellanos/umap-dataset-experiments/tree/master/code)
+
