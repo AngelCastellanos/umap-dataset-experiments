@@ -24,3 +24,7 @@ Results are named according to the different features and item types (as explain
 
 ## Code
 
+The baselines as well as the state-of-the-art approaches to which our FCA-based approach has been compared have been implemented with the help of MyMediaLite Recommender System Library proposed by Gantner et al. (2011):
+
+[https://github.com/zenogantner/MyMediaLite](https://github.com/zenogantner/MyMediaLite)
+
